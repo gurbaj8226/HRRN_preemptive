@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Allow git files needed
+!.gitignore
+
+# Allow README
+!README.md
+
+# Allow src folder
+!src/
+
+# Ignore everything inside src
+src/*
+
+# Allow Main.java
+!src/Main.java
